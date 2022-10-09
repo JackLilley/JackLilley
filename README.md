@@ -2,4 +2,4 @@
 - 👀 I’m interested in software engineering, cloud engineering, AI/ML and virtual reality.
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on anything VR or infrastructure from code.
-- 📫 How to reach me reach out to me via email jack@providentia.us
+- 📫 How to reach me reach out to me via email jack@jacklilley.us
