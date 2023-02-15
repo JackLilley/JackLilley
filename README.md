@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JackLilley
 - 👀 I’m interested in software engineering, cloud engineering, AI/ML and virtual reality.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on IaC
+- 🌱 I’m currently learning Astro, React, and Tailwind
 - 📫 How to reach me reach out to me via email jack@jacklilley.us
