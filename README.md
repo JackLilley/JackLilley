@@ -1,4 +1,3 @@
-About Jack Lilley
 🚀 Passionate Technologist: Focused on driving company growth through innovative cloud and hybrid solutions. Proficient in creating secure, modern environments underpinned by well-architected frameworks.
 
 🏅 Certified Expert: Extensive certifications in Azure, cybersecurity, and more. Skills in Azure administration, Microsoft 365, and programming languages including React, JavaScript, and Python.
